@@ -17,4 +17,4 @@ Make sure you have developer mode enabled in Rimworld before creating a bug repo
 All current and past versions of this mod can be downloaded from [GitHub](https://github.com/Qwynn/RimStarveADS/releases).
 
 ## Version Number
-0.16.1
+0.16.0.1
